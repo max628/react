@@ -1,4 +1,4 @@
-# Tourism Site
+# Tourism React Site
 
 A working in progress web based app that promote Tourist Spot.
 
